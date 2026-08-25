@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://kalig-tv.github.io/sitemap1.xml
+Sitemap: https://kalig-tv.github.io/sitemap.xml
